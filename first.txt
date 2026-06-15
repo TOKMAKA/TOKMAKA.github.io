@@ -3,7 +3,11 @@ first line 2
 somebody send update to remote
 更改，然后提交到主分支
 <<<<<<< HEAD
+<<<<<<< HEAD
 本人修改，但可能冲突
 =======
 有人修改了，可能冲突啊
 >>>>>>> d3e3be6 (可能修改)
+=======
+有人修改了，可能冲突啊
+>>>>>>> d3e3be61852a7e653b4a42dc36010d6c7d57d80e
