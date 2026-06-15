@@ -19,7 +19,7 @@ Y : out MVL7_VECTOR(11 downto 0)
 );
 end multiplexer;
 
-////////////////////architecture body eee////////////////////
+////////////////////architecture body fff////////////////////
 
 architecture mux of multiplexer is 
 begin 
