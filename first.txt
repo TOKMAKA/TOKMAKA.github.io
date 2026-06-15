@@ -2,4 +2,8 @@ first
 first line 2
 somebody send update to remote
 更改，然后提交到主分支
+<<<<<<< HEAD
 本人修改，但可能冲突
+=======
+有人修改了，可能冲突啊
+>>>>>>> d3e3be6 (可能修改)
